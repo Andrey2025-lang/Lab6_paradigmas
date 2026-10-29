@@ -6,7 +6,7 @@ Created 2026-10-28
 
 ## Foco
 
-Finalizar publicación autorizada de Lab6 y verificación de clonación. Lab5 ya publicado con el frontend mejorado; sin harness, Auth0 ni despliegue.
+Entrega de las dos primeras partes publicada y verificada: Lab6 con espacio/memoria y Lab5 con frontend mejorado. Sin harness, Auth0 ni despliegue. No hay implementación pendiente dentro de este encargo.
 
 ## Completado — 2026-10-28
 
@@ -24,13 +24,13 @@ Finalizar publicación autorizada de Lab6 y verificación de clonación. Lab5 ya
 - Validación final superada: 18 archivos candidatos previstos, instrucciones originales y licencia íntegras, ocho casos de exclusión Git, enlaces Markdown y wikilinks, rutas del índice, clon Lab5 limpio y `git diff --check`. Sin coincidencias de los patrones de claves/tokens revisados; no sustituye revisión manual.
 - El espacio de origen conserva sus archivos y apunta a esta entrega; no mantener ambas memorias activas.
 - Recuperación de memoria desde la nueva raíz comprobada: Andrey compartió la respuesta de una sesión nueva que identificó correctamente identidad, alcance, ubicaciones y pendientes. Se registra ahora, pues esa sesión no modificó archivos.
+- Lab6 publicado inicialmente como `36b3b6b`; clonación nueva desde GitHub siguiendo el README comprobada: memoria e instrucciones presentes, nuevo frontend de Lab5 en `510ee97`, Git de Lab6 limpio. Este registro de cierre se añade después de comprobar esa publicación.
 
 ## Pendientes
 
-- Publicar Lab6 y verificar que una clonación nueva, siguiendo el README, contenga la documentación/memoria y descargue el nuevo frontend desde Lab5.
 - Confirmar el formato de entrega de las dos primeras partes con el profesor.
 
 ## Esperando
 
 - Andrey/profesor: confirmar formato de entrega para las dos primeras partes, no definido por separado en el documento.
-- No hay bloqueo de autorización: Andrey pidió completar la publicación. No realizar nuevas funcionalidades ni publicaciones ajenas al alcance.
+- La publicación solicitada fue completada; no realizar nuevas funcionalidades ni publicaciones ajenas al alcance. Los cambios previos de dependencias de `antes` siguen locales y no deben descartarse.

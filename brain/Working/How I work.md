@@ -17,5 +17,6 @@ Created 2026-10-28
 - 2026-10-28: Andrey aclaró que desea mejorar el frontend en la copia original `antes`, no añadir una carpeta `chat/` a Lab6 ni duplicar código. Autorizó implementar esa mejora; conservar los cambios previos y no modificar dependencias.
 - 2026-10-28: El nuevo frontend deberá llegar a quien clone Lab5 siguiendo el README, pero eso requiere publicar por separado los cambios de Lab5 con autorización. No confundir cambios locales con contenido ya disponible en GitHub.
 - 2026-10-28, autorización actual: Andrey pidió completar la revisión, commit y push de la interfaz y pruebas en Lab5 y de la documentación/memoria en Lab6, y verificar una clonación nueva. No incluir `package.json` ni `package-lock.json` de `antes`, no hacer force push, no cambiar ramas ni publicar secretos. Esta autorización no es permiso general para futuras publicaciones ni para Auth0/Vercel.
+- 2026-10-28, cierre: publicación solicitada completada y reconstrucción desde GitHub comprobada. Futuras funcionalidades, cambios de dependencias, Auth0/Vercel y nuevas publicaciones requieren autorización; no interpretar este encargo como permiso permanente.
 
 Last reinforced 2026-10-28

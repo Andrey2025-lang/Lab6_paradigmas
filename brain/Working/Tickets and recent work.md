@@ -13,6 +13,7 @@ Created 2026-10-28
 - Memoria activa trasladada a esta entrega, conservando el diario anterior, incluida la recuperación de contexto de las 18:58.
 - Andrey autorizó completar revisión y publicación de Lab5 y Lab6. Fuera del alcance: harness, Auth0 y Vercel.
 - Lab5 publicado en `510ee97`, solo interfaz y pruebas; los cambios previos de dependencias de `antes` quedaron locales. Clon de referencia actualizado por avance rápido e instalado con `npm ci`: Git limpio, 6 pruebas Jest y 12 E2E Chromium correctas.
+- Lab6 publicado inicialmente en `36b3b6b`. Reconstrucción desde una carpeta nueva siguiendo el README comprobada: memoria e instrucciones presentes, Lab5 en `510ee97` con diseño nuevo y Git de Lab6 limpio. Notas de cierre registradas después de esa comprobación.
 
 ## Previous status — 2026-10-28, preparación inicial
 
@@ -40,8 +41,9 @@ Created 2026-10-28
 - [x] Mejorar y probar el frontend de `antes` por solicitud adicional de Andrey.
 - [x] Publicar la interfaz y pruebas en Lab5 con autorización de Andrey, sin incluir cambios previos de dependencias.
 - [x] Revalidar la revisión publicada: instalación reproducible, 6 pruebas Jest y 12 E2E correctas.
-- [ ] Publicar Lab6 y comprobar la reconstrucción mediante clones nuevos.
-- [ ] Confirmar evidencias requeridas con el profesor y revisar la entrega con Andrey antes de publicar.
+- [x] Publicar Lab6 y comprobar la reconstrucción mediante clones nuevos.
+- [x] Revisar archivos y publicar con autorización de Andrey, sin incluir cambios previos de dependencias ni el clon del chat en Lab6.
+- [ ] Confirmar con el profesor el formato de evidencias para las dos primeras partes; corresponde a Andrey.
 
 ## Previous status — 2026-10-28
 

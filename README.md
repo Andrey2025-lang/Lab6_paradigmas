@@ -51,7 +51,7 @@ git clone https://github.com/Andrey2025-lang/Lab5.git Repos/Lab5
 
 Abrir `Workspace.code-workspace` en el editor e iniciar el asistente desde esa raíz. Si una carpeta ya existe, no repetir el clon encima: revisar primero su contenido.
 
-El frontend mejorado ya está publicado en **Lab5**, commit [`510ee97`](https://github.com/Andrey2025-lang/Lab5/commit/510ee97cb4331b297937d112c99d81ec6c68bae1). Los comandos anteriores obtienen ese diseño desde su rama `main`. Andrey autorizó también publicar esta entrega de Lab6; su comprobación final se registra en la memoria.
+El frontend mejorado ya está publicado en **Lab5**, commit [`510ee97`](https://github.com/Andrey2025-lang/Lab5/commit/510ee97cb4331b297937d112c99d81ec6c68bae1). Esta entrega de **Lab6 también está publicada**. Los comandos anteriores obtienen la documentación, la memoria y el chat con el diseño nuevo desde sus ramas `main`.
 
 ### Exclusión de repositorios
 
@@ -153,6 +153,8 @@ Andrey realizó la prueba desde la nueva raíz de Lab6 y compartió una respuest
 Opcional: abrir `brain/` como bóveda en Obsidian para explorar notas y su grafo. No es necesario instalarlo para usar los Markdown.
 
 ## 5. Comprobación y pendientes de entrega
+
+**Publicación verificada el 2026-10-28:** se clonó Lab6 desde GitHub en una carpeta nueva y luego Lab5 en `Repos/Lab5`, siguiendo los comandos de este README. Se encontraron las instrucciones y la memoria, el chat quedó en `510ee97` con el frontend nuevo, y el Git de Lab6 permaneció limpio gracias a sus exclusiones. La revisión inicial de entrega verificada fue `36b3b6b`; este registro se añadió después.
 
 - Espacio organizado y clon independiente del Laboratorio 5.
 - Memoria con propietario, contexto confirmado, preferencias, estado y diario.

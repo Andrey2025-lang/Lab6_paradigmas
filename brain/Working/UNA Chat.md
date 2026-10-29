@@ -9,7 +9,7 @@ Created 2026-10-28
 - Interfaz y pruebas publicadas en Lab5, commit `510ee97cb4331b297937d112c99d81ec6c68bae1`. Solo se incluyeron `index.html`, `test/e2e/chat.spec.js` y `test/e2e/interface.spec.js`; los cambios previos de dependencias de `antes` siguen locales.
 - Clon `Repos/Lab5/` actualizado limpiamente por avance rápido a esa revisión, con `npm ci` y Git sin cambios. También sobre la versión publicada pasaron 6 pruebas Jest y 12 E2E Chromium; la mejora ya llega a nuevas clonaciones desde el README.
 - npm avisó sobre `glob` antiguo y scripts de instalación pendientes de aprobación; no se aprobaron scripts adicionales ni se actualizaron dependencias. Las suites de prueba ejecutadas pasaron de todos modos.
-- Pendiente cerrar la publicación/verificación de Lab6 y confirmar evidencias con el profesor. Auth0 y Vercel siguen para después.
+- Lab6 publicado inicialmente en `36b3b6b` y reconstrucción desde GitHub siguiendo su README comprobada: el nuevo clon de Lab5 recibe `510ee97` con la interfaz nueva. Solo queda confirmar evidencias con el profesor. Auth0 y Vercel siguen para después.
 
 ## Previous status — 2026-10-28, mejora local antes de publicar
 
